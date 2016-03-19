@@ -1,3 +1,12 @@
+v0.29.0 - Sat, 19 Mar 2016 23:10:32 GMT
+---------------------------------------
+
+- [5976359](../../commit/5976359) [fixed] #1660 MenuItem divider className
+- [0c57c24](../../commit/0c57c24) [added] Collapsible Panel transition hooks
+- [08438df](../../commit/08438df) [added] Allow overriding element in FormControls.Static
+
+
+
 v0.28.3 - Thu, 11 Feb 2016 00:00:42 GMT
 ---------------------------------------
 
