@@ -1,6 +1,6 @@
 /* eslint react/no-multi-comp: 0 */
 import React, { PropTypes } from 'react';
-import uncontrollable from 'uncontrollable';
+import uncontrollable from 'uncontrollable-react15';
 import classNames from 'classnames';
 import elementType from 'react-prop-types/lib/elementType';
 import deprecated from 'react-prop-types/lib/deprecated';

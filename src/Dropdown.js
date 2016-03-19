@@ -9,7 +9,7 @@ import ReactDOM from 'react-dom';
 import all from 'react-prop-types/lib/all';
 import elementType from 'react-prop-types/lib/elementType';
 import isRequiredForA11y from 'react-prop-types/lib/isRequiredForA11y';
-import uncontrollable from 'uncontrollable';
+import uncontrollable from 'uncontrollable-react15';
 
 import bootstrapUtils from './utils/bootstrapUtils';
 import ButtonGroup from './ButtonGroup';
